@@ -2,6 +2,7 @@
 Written using BWAPI
 
 A simple code that reads a plan and executes it in StarCraft using BWAPI
+
 Get the latest BWAPI: https://github.com/bwapi/bwapi/releases/tag/v4.2.0
 
 A sample plan (named as Plan.txt) is as follows:
