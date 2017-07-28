@@ -1,5 +1,4 @@
 # StarCraft Plan Reader
-Written using BWAPI
 
 A simple code that reads a plan and executes it in StarCraft using BWAPI (https://github.com/bwapi/bwapi/releases/tag/v4.2.0)
 
