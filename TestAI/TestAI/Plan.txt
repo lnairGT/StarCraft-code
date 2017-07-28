@@ -1,0 +1,5 @@
+Gather Minerals
+Build Refinery 1
+Train SCV 1
+Gather Gas
+End
