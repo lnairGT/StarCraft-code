@@ -7,5 +7,5 @@ A sample plan (named as "Plan.txt") is provided along with the code and must be 
 
 On launching StarCraft via Chaoslauncher, each line of the plan is read and executed
 
-Disclaimer: This is just a simple test code based on ExampleAIModule provided along with the BWAPI installation. 
-            May encounter some issues/bugs when running it
+Disclaimer: This is just a simple test code I wrote to familiarize myself with BWAPI. It is based on the ExampleAIModule provided along with the BWAPI installation. 
+May encounter some issues/bugs when running it
