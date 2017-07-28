@@ -11,7 +11,7 @@ using namespace std;
 
 void TestAI::onStart()
 {
-	Broodwar->sendText("Beginning Object Affordance AI");
+	Broodwar->sendText("Plan Reader for StarCraft");
 
 	// Print the map name.
 	// BWAPI returns std::string when retrieving a string, don't forget to add .c_str() when printing!
