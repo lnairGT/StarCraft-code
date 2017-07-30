@@ -6,5 +6,7 @@ A sample plan (named as "Plan.txt") is provided along with the code and must be 
 
 On launching StarCraft via Chaoslauncher, each line of the plan is read and executed
 
+The commands implemented so far are: Gather, Build (or Morph), Train (or Hatch), Research and Upgrade
+
 Disclaimer: This code is mostly based on the ExampleAIModule provided along with the BWAPI installation. 
 May encounter some issues/bugs when running it
